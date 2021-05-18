@@ -2,6 +2,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lprakashv)
 ![](https://www.codewars.com/users/lprakashv/badges/small)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
@@ -38,9 +41,3 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 ### 💼 Skills
 
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/LouisCAD/kotlin-libraries-playground/issues/90) in [LouisCAD/kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
-2. 🗣 Commented on [#91](https://github.com/LouisCAD/kotlin-libraries-playground/issues/91) in [LouisCAD/kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
-3. 🗣 Commented on [#41](https://github.com/LouisCAD/kotlin-libraries-playground/issues/41) in [LouisCAD/kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
-<!--END_SECTION:activity-->
