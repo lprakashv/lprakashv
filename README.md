@@ -40,5 +40,3 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
