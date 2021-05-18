@@ -40,4 +40,7 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 
 ### 💼 Skills
 
-### :zap: Recent Activity
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
