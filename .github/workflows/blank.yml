@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Update Credly Badges
+name: Update Credly Badges and Recent Blog Posts
 
 # Controls when the action will run. 
 on:
