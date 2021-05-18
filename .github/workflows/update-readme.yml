@@ -32,7 +32,7 @@ jobs:
         uses: pemtajo/badge-readme@master
         with:
           CREDLY_USER: "lalit-vatsal"
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Blog Posts README
         uses: gautamkrishnar/blog-post-workflow@master
         with:
