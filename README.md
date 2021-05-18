@@ -6,15 +6,6 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
 
-### 📫 How to reach me:
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/lprakashv) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lalit-vatsal-ab921897/)
-
-### Other Profiles:
-- [Medium](https://medium.com/@lprakashv)
-- [Stackoverflow](https://stackoverflow.com/users/4066802/lprakashv)
-
-
 ### Brief Summary:
 - 🔭 I’m currently working on:
   - Java instrumentation and agent at __AppDynamics (Cisco)__
@@ -22,6 +13,14 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 - 💬 Ask me about **Scala**, **Java**, **Functional programming**, **React**
 - 📫 How to reach me: lprakashv@gmail.com
 - 😄 Pronouns: He/Him
+
+### 📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/lprakashv) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lalit-vatsal-ab921897/)
+
+### Other Profiles:
+- [Medium](https://medium.com/@lprakashv)
+- [Stackoverflow](https://stackoverflow.com/users/4066802/lprakashv)
 
 ### 📌 Pinned Repositories:
 
