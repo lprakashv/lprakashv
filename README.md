@@ -4,8 +4,17 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
 
+### Profile Badges:
 ![](https://www.codewars.com/users/lprakashv/badges/large)
 
+### Other Profiles:
+- [Linkedin](https://www.linkedin.com/in/lalit-vatsal-ab921879/)
+- [Medium](https://medium.com/@lprakashv)
+- [Stackoverflow](https://stackoverflow.com/users/4066802/lprakashv)
+- [Twitter](https://twitter.com/lprakashv)
+
+
+### Brief Summary:
 - 🔭 I’m currently working on:
   - Java instrumentation and agent at __AppDynamics (Cisco)__
 - 🌱 I’m currently learning **Clojure**, **Clojurescript**, **Rust**, **Haskell**
