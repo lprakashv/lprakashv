@@ -44,4 +44,9 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bulk RDBMS Upserts with Spring](https://medium.com/analytics-vidhya/bulk-rdbms-upserts-with-spring-506edc9cea19?source=rss-841731c92c5e------2)
+- [Going Reactive!](https://medium.com/swlh/going-reactive-f6c22aa10597?source=rss-841731c92c5e------2)
+- [Akka Streams in Java Spring Boot!](https://medium.com/analytics-vidhya/akka-streams-in-java-spring-boot-f7749cafb7f5?source=rss-841731c92c5e------2)
+- [Handling Nulls in nested objects (Java)](https://medium.com/swlh/handling-nulls-in-nested-objects-java-7079b9413ec9?source=rss-841731c92c5e------2)
+- [Circuit Breaker pattern in Scala](https://medium.com/@lprakashv/circuit-breaker-pattern-in-scala-185994512c07?source=rss-841731c92c5e------2)
 <!-- BLOG-POST-LIST:END -->
