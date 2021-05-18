@@ -1,17 +1,16 @@
-name: Auto Update README - activities
+name: Auto Update README - credly badges
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '0 2 * * *'
 
 jobs:
-  build:
+  update-readme:
+    name: Update Readme with Badges
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Badhes - Readme
+        uses: pemtajo/badge-readme@master
+          CREDLY_USER:lalit-vatsal
+          
