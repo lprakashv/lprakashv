@@ -3,6 +3,7 @@
 ![](https://www.codewars.com/users/lprakashv/badges/small)
 
 <!--START_SECTION:badges-->
+<p align="left"><a href="http://www.credly.com/badges/6c31c856-53cf-4e22-a033-7b927d306803" title="Building Scalable Systems"><img src="https://images.credly.com/size/110x110/images/4d2cd5ea-f9e0-449e-9771-5b945fc93ef9/Building_Scalable_Systems_1_Star.png" alt="Building Scalable Systems"></img></a><a href="http://www.credly.com/badges/4da60355-3c33-4c0c-87ee-a3d2f3356d3f" title="Principles of Reactive Architecture"><img src="https://images.credly.com/size/110x110/images/c37082a5-c2dc-41a3-b3ff-9e4b33bb746f/Princ_of_react_arch_v1.png" alt="Principles of Reactive Architecture"></img></a></p>
 <!--END_SECTION:badges-->
 
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
