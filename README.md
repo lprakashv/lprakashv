@@ -1,17 +1,18 @@
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lprakashv)
+![](https://www.codewars.com/users/lprakashv/badges/small)
 
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
 
-### Profile Badges:
-![](https://www.codewars.com/users/lprakashv/badges/large)
+### 📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/lprakashv) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lalit-vatsal-ab921897/)
 
 ### Other Profiles:
-- [Linkedin](https://www.linkedin.com/in/lalit-vatsal-ab921879/)
 - [Medium](https://medium.com/@lprakashv)
 - [Stackoverflow](https://stackoverflow.com/users/4066802/lprakashv)
-- [Twitter](https://twitter.com/lprakashv)
 
 
 ### Brief Summary:
@@ -22,13 +23,23 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 - 📫 How to reach me: lprakashv@gmail.com
 - 😄 Pronouns: He/Him
 
-### Some Notable repositories:
+### 📌 Pinned Repositories:
 
-| Repo | Description | Technologies | Status |
-|------|-------------|--------------|--------|
-| [patternmatcher4j](https://github.com/lprakashv/patternmatcher4j) | A Functional programming style pattern matching library for Java. | __Java__ | :white_check_mark: |
-| [reframe-codenames](https://github.com/lprakashv/reframe-codenames) | Based on [Codenames (board game)](https://en.wikipedia.org/wiki/Codenames_(board_game)) written in Clojurescript using reagent and re-frame and deployed as a static page in Gihub Pages. | __Clojurescript/CLJS__, __Reagent__ (React wrapper for CLJS), __re-frame__ (State management), __Bootstrap__ | :white_check_mark: |
-| [expression-parser](https://github.com/lprakashv/expression-parser) | A REPL for evaluating expressions (mini interpreter) based on __Li Haoyi's__ __"fastparse"__ library. | __Scala__, __SBT__, __fastparse__ | :white_check_mark: |
-| [cowin-availability-bot-script](https://github.com/lprakashv/cowin-availability-bot-script) | A Python script to check the availability for COVID-19 Vaccine slots using Government of India's publically available CoWin website APIs. This also sends the slot details to Telegram using a Telegram bot. | __Python__, __Pandas__, __requests__ | :white_check_mark: |
-| [scala-utils](https://github.com/lprakashv/scala-utils) | My personal collection of Scala utilities and rewrite of an existing data structure or a pattern. | __Scala__ | :construction: |
-| [cloj-balancer](https://github.com/lprakashv/cloj-balancer) | A Load balancer server written in Clojure. | __Clojure__ | :x: |
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=patternmatcher4j&show_owner=true)](https://github.com/lprakashv/patternmatcher4j)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=reframe-codenames&show_owner=true)](https://github.com/lprakashv/reframe-codenames)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=cowin-availability-bot-script&show_owner=true)](https://github.com/lprakashv/cowin-availability-bot-script)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=expression-parser&show_owner=true)](https://github.com/lprakashv/expression-parser)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=scala-utils&show_owner=true)](https://github.com/lprakashv/scala-utils)
+
+### 📈 GitHub Stats
+
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lprakashv&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lprakashv&layout=compact&theme=dracula)
+
+### 💼 Skills
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
