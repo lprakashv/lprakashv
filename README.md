@@ -2,13 +2,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lprakashv)
 ![](https://www.codewars.com/users/lprakashv/badges/small)
 
-<!--START_SECTION:badges-->
-<p align="left"><a href="http://www.credly.com/badges/6c31c856-53cf-4e22-a033-7b927d306803" title="Building Scalable Systems"><img src="https://images.credly.com/size/110x110/images/4d2cd5ea-f9e0-449e-9771-5b945fc93ef9/Building_Scalable_Systems_1_Star.png" alt="Building Scalable Systems"></img></a><a href="http://www.credly.com/badges/4da60355-3c33-4c0c-87ee-a3d2f3356d3f" title="Principles of Reactive Architecture"><img src="https://images.credly.com/size/110x110/images/c37082a5-c2dc-41a3-b3ff-9e4b33bb746f/Princ_of_react_arch_v1.png" alt="Principles of Reactive Architecture"></img></a></p>
-<!--END_SECTION:badges-->
-
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
+
+<!--START_SECTION:badges-->
+<p align="left"><a href="http://www.credly.com/badges/6c31c856-53cf-4e22-a033-7b927d306803" title="Building Scalable Systems"><img src="https://images.credly.com/size/110x110/images/4d2cd5ea-f9e0-449e-9771-5b945fc93ef9/Building_Scalable_Systems_1_Star.png" alt="Building Scalable Systems"></img></a><a href="http://www.credly.com/badges/4da60355-3c33-4c0c-87ee-a3d2f3356d3f" title="Principles of Reactive Architecture"><img src="https://images.credly.com/size/110x110/images/c37082a5-c2dc-41a3-b3ff-9e4b33bb746f/Princ_of_react_arch_v1.png" alt="Principles of Reactive Architecture"></img></a></p>
+<!--END_SECTION:badges-->
 
 ### Brief Summary:
 - 🔭 I’m currently working on:
@@ -26,6 +26,16 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 - [Medium](https://medium.com/@lprakashv)
 - [Stackoverflow](https://stackoverflow.com/users/4066802/lprakashv)
 
+### Recent Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+- [Bulk RDBMS Upserts with Spring](https://medium.com/analytics-vidhya/bulk-rdbms-upserts-with-spring-506edc9cea19?source=rss-841731c92c5e------2)
+- [Going Reactive!](https://medium.com/swlh/going-reactive-f6c22aa10597?source=rss-841731c92c5e------2)
+- [Akka Streams in Java Spring Boot!](https://medium.com/analytics-vidhya/akka-streams-in-java-spring-boot-f7749cafb7f5?source=rss-841731c92c5e------2)
+- [Handling Nulls in nested objects (Java)](https://medium.com/swlh/handling-nulls-in-nested-objects-java-7079b9413ec9?source=rss-841731c92c5e------2)
+- [Circuit Breaker pattern in Scala](https://medium.com/@lprakashv/circuit-breaker-pattern-in-scala-185994512c07?source=rss-841731c92c5e------2)
+<!-- BLOG-POST-LIST:END -->
+
 ### 📌 Pinned Repositories:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lprakashv&repo=patternmatcher4j&show_owner=true)](https://github.com/lprakashv/patternmatcher4j)
@@ -40,13 +50,3 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lprakashv&layout=compact&theme=dracula)
 
 ### 💼 Skills
-
-### Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Bulk RDBMS Upserts with Spring](https://medium.com/analytics-vidhya/bulk-rdbms-upserts-with-spring-506edc9cea19?source=rss-841731c92c5e------2)
-- [Going Reactive!](https://medium.com/swlh/going-reactive-f6c22aa10597?source=rss-841731c92c5e------2)
-- [Akka Streams in Java Spring Boot!](https://medium.com/analytics-vidhya/akka-streams-in-java-spring-boot-f7749cafb7f5?source=rss-841731c92c5e------2)
-- [Handling Nulls in nested objects (Java)](https://medium.com/swlh/handling-nulls-in-nested-objects-java-7079b9413ec9?source=rss-841731c92c5e------2)
-- [Circuit Breaker pattern in Scala](https://medium.com/@lprakashv/circuit-breaker-pattern-in-scala-185994512c07?source=rss-841731c92c5e------2)
-<!-- BLOG-POST-LIST:END -->
