@@ -10,9 +10,9 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 ### 🧐 More About Me:
 - 🎓 I graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
 - 🔭 I’m currently working on:
-  - Java instrumentation and agent at __AppDynamics (Cisco)__
-- 🌱 I’m currently learning __ML and AI__, __Rust__, __Haskell__, __Kotlin__
-- 💬 Ask me about __Scala__, __Java__, __Python__, __Functional programming__, __React__
+  - Java Agents, OpenTelemetry, LogCollection, Kubernetes Cluster Logs Monitoring, Kubernetes Operators at __AppDynamics (Cisco)__
+- 🌱 I’m currently learning __Kubernetes__, __Kubernetes Operators__, __Helm Charts__, __ML and AI__, __Rust__
+- 💬 Ask me about __Scala__, __Java__, __Python__, __Clojure__, __Functional programming__, __React__, __SQL__, __Data structures & Algorithms__
 - 📫 How to reach me: lprakashv@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -111,12 +111,3 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 </p>
 
 [![Skill Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lprakashv&skills=Java,Scala,Clojure,Javascript,Python&show-other-skills=true&padding=10&width=820)](https://profile.codersrank.io/user/lprakashv)
-
-<!--xxSTART_SECTION:badges-->
-<!--xxEND_SECTION:badges-->
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lprakashv&&column=7&no-frame=true&no-bg=true">
-  </a>
-</p>
