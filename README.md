@@ -5,8 +5,6 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
 I am a Software Engineer/Developer from __India__ 🇮🇳
 
-[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lprakashv)](https://profile.codersrank.io/user/lprakashv)
-
 ### 🧐 More About Me:
 - 🎓 I graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
 - 🔭 I’m currently working on:
@@ -103,11 +101,8 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white">
 </p>
 
 [![Skill Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lprakashv&skills=Java,Scala,Clojure,Javascript,Python&show-other-skills=true&padding=10&width=820)](https://profile.codersrank.io/user/lprakashv)
