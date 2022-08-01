@@ -6,13 +6,11 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋
 I am a Software Engineer/Developer from __India__ 🇮🇳
 
 ### 🧐 More About Me:
-- 🎓 I graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
-- 🔭 I’m currently working on:
-  - Java Agents, OpenTelemetry, LogCollection, Kubernetes Cluster Logs Monitoring, Kubernetes Operators at __AppDynamics (Cisco)__
-- 🌱 I’m currently learning __Kubernetes__, __Kubernetes Operators__, __Helm Charts__, __ML and AI__, __Rust__
-- 💬 Ask me about __Scala__, __Java__, __Python__, __Clojure__, __Functional programming__, __React__, __SQL__, __Data structures & Algorithms__
+- 🔭 I’m currently working on Cloud Native observability focussed on __OpenTelemetry__ for __log__ and __metrics__ and __Kubernetes Operators__ at __AppDynamics (part of Cisco)__
+- I have previously worked on E-Commerce 🛒 systems at scale 🌐 with huge datasets 📊
+- 💬 Ask me about __Scala__, __Java__, __Go__, __Python__, __Data structures & Algorithms__ and _React_, _Angular_, _SQL_, _Functional programming_, _Clojure_
+- 🎓 Graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
 - 📫 How to reach me: lprakashv@gmail.com
-- 😄 Pronouns: He/Him
 
 ### 📫 How to reach me:
 
@@ -55,11 +53,6 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
   </a>
 </div>
 
-### 📊 Github Stats:
-
-<p align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=lprakashv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprakashv&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=notes,data-science-notes" /></p>
-
 ### 💼 Skills
 
 #### Languages and Frameworks:
@@ -67,23 +60,23 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 <p align="center">
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?&style=for-the-badge&logo=Clojure&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
 #### Frameworks:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 #### Databases:
@@ -100,9 +93,8 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </p>
-
-[![Skill Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lprakashv&skills=Java,Scala,Clojure,Javascript,Python&show-other-skills=true&padding=10&width=820)](https://profile.codersrank.io/user/lprakashv)
