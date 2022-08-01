@@ -7,7 +7,7 @@ I am a Software Engineer/Developer from __India__ 🇮🇳
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on Cloud Native observability focussed on __OpenTelemetry__ for __log__ and __metrics__ and __Kubernetes Operators__ at __AppDynamics (part of Cisco)__
-- I have previously worked on E-Commerce 🛒 systems at scale 🌐 with huge datasets 📊
+- 🥼 I have previously worked on E-Commerce 🛒 systems at scale 🌐 with huge datasets 📊
 - 💬 Ask me about __Scala__, __Java__, __Go__, __Python__, __Data structures & Algorithms__ and _React_, _Angular_, _SQL_, _Functional programming_, _Clojure_
 - 🎓 Graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
 - 📫 How to reach me: lprakashv@gmail.com
