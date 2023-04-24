@@ -1,5 +1,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lprakashv)
-![](https://www.codewars.com/users/lprakashv/badges/small)
 
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
