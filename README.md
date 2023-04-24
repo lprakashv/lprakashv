@@ -3,13 +3,13 @@
 
 Hi there, my name is __Lalit Prakash Vatsal__ 👋
 
-I am a Software Engineer/Developer from __India__ 🇮🇳
+I am a professional Software Engineer from __India__ 🇮🇳
 
 ### 🧐 More About Me:
-- 🔭 I’m currently working on Cloud Native observability focussed on __OpenTelemetry__ for __log__ and __metrics__ and __Kubernetes Operators__ at __AppDynamics (part of Cisco)__
+- 🔭 I’m currently working at __Cisco Appdynamics__ in Observability domain, focussed on __Kubernetes__, __OpenTelemetry__ and __APM__ etc. More specifically for __log__ and __metrics__ collection and reporting.
 - 🥼 I have previously worked on E-Commerce 🛒 systems at scale 🌐 with huge datasets 📊
 - 💬 Ask me about __Scala__, __Java__, __Go__, __Python__, __Data structures & Algorithms__ and _React_, _Angular_, _SQL_, _Functional programming_, _Clojure_
-- 🎓 Graduated from Indian __Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
+- 🎓 Graduated from __Indian Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
 - 📫 How to reach me: lprakashv@gmail.com
 
 ### 📫 How to reach me:
