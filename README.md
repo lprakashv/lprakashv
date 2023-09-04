@@ -1,17 +1,27 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lprakashv)
+![GitHub followers](https://img.shields.io/github/followers/lprakashv?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/lprakashv?style=for-the-badge)
 
-Hi there, my name is __Lalit Prakash Vatsal__ 👋
+[![Website - lprakashv.com](https://img.shields.io/website/https/lprakashv.com?style=for-the-badge&label=https://lprakashv.com)](https://lprakashv.com)
 
-I am a professional Software Engineer from __India__ 🇮🇳
+Hi there, my name is __Lalit Prakash Vatsal__ 👋 a __Software Engineer__ from __India__ 🇮🇳 with a __🌟decade🌟__ of development experience.
 
-### 🧐 More About Me:
-- 🔭 I’m currently working at __Cisco Appdynamics__ focussed on __Observability__ via __OpenTelemetry__ on __Kubernetes__ and __Cloud Native__ as well as on Appdynamics' proprietary APM tools.
-- 🥼 I have previously worked with E-Commerce 🛒 system from small to large scale 🌐 systems with huge datasets 📊
-- 💬 Ask me about __Java__, __Scala__, __Go__, __Python__ and generally any programming language as well as for concepts like __Data structures & Algorithms__, __Distributed Systems__, _Monoliths_, _Microservices_ and _Functional programming_.
+### 🙋🏻‍♂️ More about Me:
+- 🔭 I’m currently working at __Cisco Appdynamics__ focussed on __Observability__ via __OpenTelemetry__ on __Cloud Native__ platforms.
+- 🥼 I have previously worked with multiple __E-Commerce 🛒__ systems ranging from small-scale \(startups\) to large-scale \(Walmart\) systems with huge datasets 📊
 - 🎓 Graduated from __Indian Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
-- 📫 How to reach me: lprakashv@gmail.com
+
+### 💬 Ask me about:
+- Programming Langauge Expertise: __Java__, __Scala__, __Go \(Golang\)__, and any other general probelsm on different langs like Python, Typescript, Javascript, Clojure etc.
+- ☁️ Cloud Native tools and technologies: OpenTelemetry, Kubernetes, Helm, Docker, Prometheus, Operator Framework etc.
+- AWS Serverless architecture
+- 📑 Writing __Technical/Engineering Desgin Documents__ and general technical documents.
+- __Distributed System design__ and Architecture.
+- __Clean code practices__ and programming paradigms like, __Functional programming__ and __OOP__.
+- Algorithms, Data structures and Problem solving.
+- 🛒 Ecommerce backend systems.
 
 ### 📫 How to reach me:
+📧 __Email:__ lprakashv@gmail.com
 
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lprakashv)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lprakashv/)
