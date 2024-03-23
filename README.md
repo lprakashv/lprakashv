@@ -3,12 +3,12 @@
 
 [![Website - lprakashv.com](https://img.shields.io/website/https/lprakashv.com?style=for-the-badge&label=https://lprakashv.com)](https://lprakashv.com)
 
-Hi there, my name is __Lalit Prakash Vatsal__ 👋 a __Software Engineer__ from __India__ 🇮🇳 with a __🌟decade🌟__ of development experience.
+Hi there, my name is __Lalit Prakash Vatsal__ 👋 a __Software Engineer__ from __India__ 🇮🇳 with a __🌟decade🌟__ of professional development experience.
 
 ### 🙋🏻‍♂️ More about Me:
-- 🔭 I’m currently working at __Cisco Appdynamics__ focussed on __Observability__ via __OpenTelemetry__ on __Cloud Native__ platforms.
+- 🔭 I’m currently working at __Cisco - Appdynamics__ focussed on __Observability__ via __OpenTelemetry (OTel)__ on __Cloud Native__ platforms like __kubernetes (k8s)__.
 - 🥼 I have previously worked with multiple __E-Commerce 🛒__ systems ranging from small-scale \(startups\) to large-scale \(Walmart\) systems with huge datasets 📊
-- 🎓 Graduated from __Indian Institute of Technology Roorkee__ (IIT Roorkee) in 2014 with Bachelors and Masters of Technology in Electronics and Communication Engineering.
+- 🎓 Got B.Tech and M.Tech from __Indian Institute of Technology Roorkee__ (IIT Roorkee).
 
 ### 💬 Ask me about:
 - Programming Langauge Expertise: __Java__, __Scala__, __Go \(Golang\)__, and any other general probelsm on different langs like Python, Typescript, Javascript, Clojure etc.
