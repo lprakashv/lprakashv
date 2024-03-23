@@ -11,7 +11,7 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋 a __Software Engineer__ from 
 - 🎓 Got B.Tech and M.Tech from __Indian Institute of Technology Roorkee__ (IIT Roorkee).
 
 ### 💬 Ask me about:
-- Programming Langauge Expertise: __Java__, __Scala__, __Go \(Golang\)__, and any other general probelsm on different langs like Python, Typescript, Javascript, Clojure etc.
+- Programming Langauge Expertise: __Java__, __Scala__, __Go \(Golang\)__, and any other general problems on different langs like Python, Typescript, Javascript, Clojure etc.
 - ☁️ Cloud Native tools and technologies: OpenTelemetry, Kubernetes, Helm, Docker, Prometheus, Operator Framework etc.
 - AWS Serverless architecture
 - 📑 Writing __Technical/Engineering Desgin Documents__ and general technical documents.
