@@ -14,7 +14,7 @@ Hi there, my name is __Lalit Prakash Vatsal__ 👋 a __Software Engineer__ from 
 - Programming Langauge Expertise: __Java__, __Scala__, __Go \(Golang\)__, and any other general problems on different langs like Python, Typescript, Javascript, Clojure etc.
 - ☁️ Cloud Native tools and technologies: OpenTelemetry, Kubernetes, Helm, Docker, Prometheus, Operator Framework etc.
 - AWS Serverless architecture
-- 📑 Writing __Technical/Engineering Desgin Documents__ and general technical documents.
+- 📑 Writing __Technical/Engineering Design Documents__ and general technical documents.
 - __Distributed System design__ and Architecture.
 - __Clean code practices__ and programming paradigms like, __Functional programming__ and __OOP__.
 - Algorithms, Data structures and Problem solving.
