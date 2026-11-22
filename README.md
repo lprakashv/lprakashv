@@ -8,12 +8,11 @@ My work centers on backend and distributed systems, with a strong focus on obser
 
 ## 🔭 Focus areas
 
-- 🧱 Backend and distributed systems
-- 📈 Observability, OpenTelemetry, Prometheus, Grafana, Jaeger, and application instrumentation
-- 🤖 Generative AI applications, MCP, and AI monitoring
-- ☁️ AWS serverless architecture
-- 💻 Java, Scala, and Go; with experience in Python, TypeScript, JavaScript, and Clojure
-- ✍️ Technical design and engineering documentation
+- 🧱 **Backend and distributed systems.** I build services for ecommerce, from logistics and inventory to APIs and high volume data ingestion. I enjoy working through how data moves across services and what happens when one of them falls behind.
+- 📈 **Observability.** I use logs, metrics, and traces to understand how systems behave. I’m especially interested in turning that evidence into a clear next step when something goes wrong.
+- 🤖 **Generative AI and MCP.** I build tools that help AI assistants investigate software systems. I care about how well those tools work in practice, so I use repeatable evaluation cases to see what improves or breaks when a tool changes.
+- ☁️ **Cloud infrastructure.** I use infrastructure as code to define and deploy complete systems on AWS, including serverless and container workloads.
+- ✍️ **Software design and technical writing.** Scala taught me to value types that catch mistakes before runtime. I bring the same preference for clarity to small, reviewable changes, architecture diagrams, and interactive examples that make an idea easier to understand.
 
 ## 🛠️ Selected work
 
