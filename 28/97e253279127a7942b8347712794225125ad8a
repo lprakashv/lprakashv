@@ -1,0 +1,19 @@
+README.md
+  s_a0eabb75847ad8::t_263d837ec1c39a 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2897e253279127a7942b8347712794225125ad8a",
+  "prompts": {},
+  "sessions": {
+    "s_a0eabb75847ad8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a201fb-158d-72b1-8d3b-705a84ae8b7b",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "Lalit Vatsal <lvatsal@splunk.com>"
+    }
+  }
+}
