@@ -1,4 +1,4 @@
-![Abstract illustration of distributed systems and observability](./lprakashv-profile-banner.png)
+![Illustration of ecommerce services, parallel event streams, data stores, and a trace waterfall](./lprakashv-profile-banner.png)
 
 # Hi, I'm Lalit 👋
 
@@ -18,6 +18,15 @@ My work centers on backend and distributed systems, with a strong focus on obser
 ## 🛠️ Selected work
 
 I have worked on backend services for ecommerce, including logistics integrations, API gateways, and inventory management. I have also built systems for data ingestion, cloud operations, observability, and AI tooling.
+
+## ⚙️ Tools and technologies
+
+- **Java and Spring:** I built backend services with Spring Boot. I used Spring Data and Hibernate to model ecommerce data and implemented a custom write path for high throughput catalog updates.
+- **Kafka:** I built custom producers and consumers for services that publish and ingest large volumes of events. I used both Spring for Apache Kafka and the native Kafka Java client.
+- **Databases:** I worked with SQL in PostgreSQL, MySQL, Oracle Database, and SQL Server, including stored procedures in Oracle and SQL Server. I also worked with MongoDB.
+- **Scala:** I worked with Akka actors, Play Framework, and Slick. Learning Scala showed me how type safety makes debugging and refactoring easier by catching errors at compile time.
+- **AWS:** I used CloudFormation to define and deploy complete infrastructure stacks. I worked with Lambda, S3, ECS, Fargate, EC2, Amazon Data Firehose, and CloudWatch.
+- **Developer tooling:** I’ve been using OpenAI Codex more often lately and have grown comfortable working with it.
 
 ## 🚀 Highlighted repositories
 
