@@ -34,12 +34,6 @@ I'm a software engineer, problem solver, and curious experimenter from India, wi
 - 🛡️ [resilience4s](https://github.com/lprakashv/resilience4s) — An archived Scala toolkit for microservice resilience patterns.
 - 💉 [cowin-availability-bot-script](https://github.com/lprakashv/cowin-availability-bot-script) — A script that sends vaccine availability updates through Telegram.
 
-## 🛠️ Selected work
-
-- **Catalog ingestion.** Built a service to ingest ecommerce catalog feeds and implemented a custom database write path for high volume updates.
-- **Cloud log reporting.** Built a serverless pipeline that collects application logs and turns them into reports.
-- **AI application monitoring.** Connected application instrumentation to event analytics to monitor how AI applications behave.
-
 ## ⚙️ Tools and technologies
 
 - **Java and Spring:** Spring Boot for backend services, with Spring Data and Hibernate for ecommerce data modeling.
