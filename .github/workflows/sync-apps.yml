@@ -1,0 +1,32 @@
+name: Refresh highlighted apps
+
+on:
+  schedule:
+    - cron: '37 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-app-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh app links and previews
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sync_apps.py --profile
+      - name: Commit changes
+        run: |
+          git add README.md .app-sync-state.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh highlighted apps"
+            git push origin HEAD:main
+          fi
