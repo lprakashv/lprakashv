@@ -1,0 +1,28 @@
+README.md
+  s_a0eabb75847ad8::t_f0cc55ce43686f 37-40
+  s_a0eabb75847ad8::t_ff27dc8a43f628 21-22,25-26
+.github/workflows/sync-apps.yml
+  s_a0eabb75847ad8::t_04328bb22cd1c1 1-32
+scripts/sync_apps.py
+  s_a0eabb75847ad8::t_a8cabff85e336d 170-171,179-180
+  s_a0eabb75847ad8::t_31915b4855b645 105,127-130
+  s_a0eabb75847ad8::t_5d12b618524785 1-104,106-126,131-169,172-178,181-185
+.app-sync-state.json
+  s_a0eabb75847ad8::t_ff27dc8a43f628 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ea35d8a25b71f05c17bfec72db49ad1773ec417",
+  "prompts": {},
+  "sessions": {
+    "s_a0eabb75847ad8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a201fb-158d-72b1-8d3b-705a84ae8b7b",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "Lalit Vatsal <lvatsal@splunk.com>"
+    }
+  }
+}
